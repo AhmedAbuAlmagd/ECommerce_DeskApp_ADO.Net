@@ -47,13 +47,13 @@ The application uses a SQL Server database with these tables :-
 - Users can have many favorite products.
 - 🌟 The schema is included in the folder (DataBase bak) -> ECommerce_ADO.bak backup .
 
-🌟 **Installation and Setup :**
+## Installation and Setup
 
 - Clone the repository, open in Visual Studio, and restore packages.
 - Use the included database backup (ECommerce_ADO.bak).
 - Update the connection string in App.config and build/run the application.
 
-🌟 **Technologies :**
+## Technologies
 
 - C#, .NET Framework (Windows Forms), ADO.NET (for database access), SQL Server.
 
