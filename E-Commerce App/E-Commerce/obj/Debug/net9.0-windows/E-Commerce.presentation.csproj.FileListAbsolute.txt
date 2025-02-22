@@ -1,0 +1,222 @@
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.exe
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.deps.json
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.runtimeconfig.json
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.pdb
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.pdb
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.dll.config
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.DataAccess.pdb
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.AssemblyReference.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Form1.resources
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.GenerateResource.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.AssemblyInfoInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.AssemblyInfo.cs
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commer.C99FF2A3.Up2Date
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\refint\E-Commerce.presentation.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.pdb
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.genruntimeconfig.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\ref\E-Commerce.presentation.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\App.config
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.exe
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.dll.config
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.deps.json
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.runtimeconfig.json
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.pdb
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.DataAccess.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.pdb
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.DataAccess.pdb
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.AssemblyReference.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.LoginForm.resources
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.RegisterForm.resources
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.UserForm.resources
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.WelcomeForm.resources
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.GenerateResource.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.AssemblyInfoInputs.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.AssemblyInfo.cs
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.CoreCompileInputs.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commer.C99FF2A3.Up2Date
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\refint\E-Commerce.presentation.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.pdb
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.genruntimeconfig.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\ref\E-Commerce.presentation.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.exe
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.deps.json
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.runtimeconfig.json
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.DataAccess.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.BusinessLogic.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.DataAccess.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.LoginForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.RegisterForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.UserForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.WelcomeForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.GenerateResource.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commer.C99FF2A3.Up2Date
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\refint\E-Commerce.presentation.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.genruntimeconfig.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\ref\E-Commerce.presentation.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Forms.FavouritesForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Forms.AdminForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Forms.ChangePasswordForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Forms.UsersForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Forms.CategoriesForm.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Forms.ProductsForm.resources
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.csproj.AssemblyReference.cache
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.dll
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\refint\E-Commerce.presentation.dll
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E-Commerce.presentation.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\obj\Debug\net9.0-windows\E_Commerce.Properties.Resources.resources
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce\bin\Debug\net9.0-windows\E-Commerce.presentation.dll.config

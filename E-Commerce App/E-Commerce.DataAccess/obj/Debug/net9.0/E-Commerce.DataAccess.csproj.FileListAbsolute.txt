@@ -1,0 +1,48 @@
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.deps.json
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.AssemblyReference.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfoInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfo.cs
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\refint\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI\Projects\ADO Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\ref\E-Commerce.DataAccess.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.deps.json
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.AssemblyReference.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfoInputs.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfo.cs
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.CoreCompileInputs.cache
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\refint\E-Commerce.DataAccess.dll
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI_Professional_45\18-ADO\Version Two\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\ref\E-Commerce.DataAccess.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.deps.json
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\refint\E-Commerce.DataAccess.dll
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.pdb
+C:\Users\SoftLaptop\Desktop\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\ref\E-Commerce.DataAccess.dll
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.deps.json
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.dll
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.pdb
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfo.cs
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.dll
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\refint\E-Commerce.DataAccess.dll
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.pdb
+C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\ref\E-Commerce.DataAccess.dll
