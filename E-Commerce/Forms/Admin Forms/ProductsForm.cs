@@ -78,9 +78,13 @@ namespace E_Commerce.Forms
         {
             if (product_id != 0)
             {
-                productsService.Delete(product_id);
-                MessageBox.Show("Product deleted successfully");
-                ResetView();
+                var result = MessageBox.Show("Are you sure you want to delete this product ?", "Confirm Deletion", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == DialogResult.Yes)
+                {
+                    productsService.Delete(product_id);
+                    MessageBox.Show("Product deleted successfully");
+                    ResetView();
+                }
             }
             else
                 MessageBox.Show("Please select product");

@@ -59,3 +59,19 @@ C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.BusinessLogic\o
 C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.BusinessLogic\obj\Debug\net9.0\refint\E-Commerce.BusinessLogic.dll
 C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.pdb
 C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.BusinessLogic\obj\Debug\net9.0\ref\E-Commerce.BusinessLogic.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\bin\Debug\net9.0\E-Commerce.BusinessLogic.deps.json
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\bin\Debug\net9.0\E-Commerce.BusinessLogic.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\bin\Debug\net9.0\E-Commerce.BusinessLogic.pdb
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\bin\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\bin\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.csproj.AssemblyReference.cache
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.AssemblyInfoInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.AssemblyInfo.cs
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.sourcelink.json
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commer.17FEEBF9.Up2Date
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\refint\E-Commerce.BusinessLogic.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\E-Commerce.BusinessLogic.pdb
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.BusinessLogic\obj\Debug\net9.0\ref\E-Commerce.BusinessLogic.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj": {}
+    "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj": {
+    "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj",
+        "projectUniqueName": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj",
         "projectName": "E-Commerce.BusinessLogic",
-        "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj",
+        "projectPath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\SoftLaptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.BusinessLogic\\obj\\",
+        "outputPath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj"
+              "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj": {
+                "projectPath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj": {
+    "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
+        "projectUniqueName": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
         "projectName": "E-Commerce.DataAccess",
-        "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
+        "projectPath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
         "packagesPath": "C:\\Users\\SoftLaptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\obj\\",
+        "outputPath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -152,7 +152,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(75, 170, 154);
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(822, 450);
             Controls.Add(combo_category_PF);
             Controls.Add(btn_delete_PF);
             Controls.Add(btn_update_PF);

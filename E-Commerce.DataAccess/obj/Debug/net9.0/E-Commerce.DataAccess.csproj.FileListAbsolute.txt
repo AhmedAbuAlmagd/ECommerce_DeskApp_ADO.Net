@@ -46,3 +46,16 @@ C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\
 C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\refint\E-Commerce.DataAccess.dll
 C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.pdb
 C:\Users\Salem\OneDrive\Desktop\E-Commerce\E-Commerce\E-Commerce.DataAccess\obj\Debug\net9.0\ref\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.deps.json
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\bin\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.AssemblyReference.cache
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfoInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.AssemblyInfo.cs
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.sourcelink.json
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\refint\E-Commerce.DataAccess.dll
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\E-Commerce.DataAccess.pdb
+D:\ITI\Projects\ADO Project\E-Commerce Project\E-Commerce.DataAccess\obj\Debug\net9.0\ref\E-Commerce.DataAccess.dll

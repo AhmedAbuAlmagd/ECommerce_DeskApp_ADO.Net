@@ -1,106 +1,111 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\",
+  "WorkspaceRootPath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\login \u0026 registeration forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\admin forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\admin forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\admin forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\admin forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\admin forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\admin forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\e-commerce.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\e-commerce.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\user forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\user forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\user forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\user forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\login \u0026 registeration forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\login \u0026 registeration forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|c:\\users\\softlaptop\\desktop\\e-commerce\\e-commerce\\forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\login \u0026 registeration forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\admin forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\e-commerce\\forms\\user forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\user forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\login \u0026 registeration forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\admin forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\user forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\user forms\\favouritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\user forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\user forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\login \u0026 registeration forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\login \u0026 registeration forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\login \u0026 registeration forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\e-commerce.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\e-commerce.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|d:\\iti\\projects\\ado project\\e-commerce project\\e-commerce\\forms\\admin forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBA302-A203-4E01-855A-AB9B219C0F4F}|E-Commerce\\E-Commerce.presentation.csproj|solutionrelative:e-commerce\\forms\\admin forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\e-commerce\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +115,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,193 +127,256 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriesForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\CategoriesForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\CategoriesForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\CategoriesForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\CategoriesForm.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T17:52:37.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\AdminForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\AdminForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\AdminForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:05:57.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriesForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\CategoriesForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\CategoriesForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\CategoriesForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\CategoriesForm.cs [Design]",
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAArwFYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:21:42.933Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T17:52:58.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\AdminForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\AdminForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\AdminForm.cs [Design]",
+              "Title": "CategoriesForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIA+wEcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:21:47.093Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T17:52:37.625Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FavouritesForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\FavouritesForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\FavouritesForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\FavouritesForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\FavouritesForm.cs [Design]",
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:21:29.628Z",
+              "WhenOpened": "2025-02-20T23:19:22.16Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ChangePasswordForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ChangePasswordForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\ChangePasswordForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ChangePasswordForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\ChangePasswordForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:30:08.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductsForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ProductsForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\ProductsForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ProductsForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\ProductsForm.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T17:52:58.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\LoginForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\LoginForm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:09:39.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FavouritesForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\FavouritesForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\FavouritesForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\FavouritesForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\FavouritesForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:50:07.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\RegisterForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\RegisterForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T17:54:10.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UserForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\UserForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UserForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\UserForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:50:52.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WelcomeForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\WelcomeForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\WelcomeForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\WelcomeForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:28:18.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "UsersForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UsersForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\UsersForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UsersForm.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\UsersForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAByAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\UsersForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\UsersForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\UsersForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\UsersForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAvwIkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T17:31:47.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:10:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAArwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:30:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:54:10.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\ProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:20:39.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\CategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:21:42.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\UsersForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\UsersForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\UsersForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\UsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:19:20.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\User Forms\\ChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:36.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:56.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:21:10.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FavouritesForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\FavouritesForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\User Forms\\FavouritesForm.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\User Forms\\FavouritesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:21:29.628Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\AdminForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:21:47.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA3wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:09:39.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\AdminForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\AdminForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\AdminForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:05:57.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FavouritesForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\FavouritesForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\User Forms\\FavouritesForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\FavouritesForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\User Forms\\FavouritesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:50:07.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\UserForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\User Forms\\UserForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\User Forms\\UserForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\User Forms\\UserForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:50:52.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\WelcomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:28:18.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\LoginForm.Designer.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Login \u0026 Registeration Forms\\LoginForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T20:46:38.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\App.config",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\App.config",
               "RelativeDocumentMoniker": "E-Commerce\\App.config",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\App.config",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\App.config",
               "RelativeToolTip": "E-Commerce\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -316,11 +384,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "E-Commerce.presentation.csproj",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\E-Commerce.presentation.csproj",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\E-Commerce.presentation.csproj",
               "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.presentation.csproj",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\E-Commerce.presentation.csproj",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\E-Commerce.presentation.csproj",
               "RelativeToolTip": "E-Commerce\\E-Commerce.presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -328,105 +396,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeToolTip": "E-Commerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Forms\\Admin Forms\\AdminForm.Designer.cs",
+              "ToolTip": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce\\Forms\\Admin Forms\\AdminForm.Designer.cs",
+              "RelativeToolTip": "E-Commerce\\Forms\\Admin Forms\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:10:22.071Z"
+              "WhenOpened": "2025-02-21T17:33:01.983Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "AdminForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\AdminForm.Designer.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\AdminForm.Designer.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\AdminForm.Designer.cs",
-              "RelativeToolTip": "E-Commerce\\Forms\\AdminForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T17:33:01.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WelcomeForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\WelcomeForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\WelcomeForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\WelcomeForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:19:22.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\LoginForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:21:10.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UsersForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UsersForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\UsersForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UsersForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\UsersForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:19:20.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "ChangePasswordForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ChangePasswordForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\ChangePasswordForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ChangePasswordForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\ChangePasswordForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T23:21:39.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "RegisterForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T23:16:41.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UserForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\UserForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\UserForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T23:19:17.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductsForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ProductsForm.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Forms\\ProductsForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce\\Forms\\ProductsForm.cs [Design]",
-              "RelativeToolTip": "E-Commerce\\Forms\\ProductsForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:20:39.275Z"
             }
           ]
         }

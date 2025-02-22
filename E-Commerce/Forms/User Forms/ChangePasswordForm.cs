@@ -8,6 +8,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -31,9 +32,19 @@ namespace E_Commerce.Forms
             var user = usersService.GetById(user_id);
             if (String.IsNullOrWhiteSpace(txt_oldPass.Text) || String.IsNullOrWhiteSpace(txt_newPass.Text) || String.IsNullOrWhiteSpace(txt_confirmPass.Text))
                 MessageBox.Show("Please fill All fields");
+           
             else
-            {
-                if (txt_oldPass.Text == user.Rows[0].ItemArray[3].ToString() && txt_newPass.Text == txt_confirmPass.Text)
+            {                
+                 if (txt_oldPass.Text != user.Rows[0].ItemArray[3].ToString())
+                 {
+                    MessageBox.Show("Your old Password is wrong");
+                 }
+
+                else if (txt_newPass.Text.Length < 6 || !Regex.IsMatch(txt_newPass.Text, @"^(?=.*\d)(?=.*[A-Za-z@#$%^&+=!]).{6,}$"))
+                    MessageBox.Show("Password must be at least 6 characters long and contain at least one number and either a letter or special character.",
+                        "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                else if (txt_oldPass.Text == user.Rows[0].ItemArray[3].ToString() && txt_newPass.Text == txt_confirmPass.Text)
                 {
                     var result = MessageBox.Show("Are you sure you want to change your password?", "Confirm Deletion", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                     if (result == DialogResult.Yes)
@@ -43,10 +54,6 @@ namespace E_Commerce.Forms
                         this.Close();
                         previousForm.Show();
                     }
-                }
-                else if (txt_oldPass.Text != user.Rows[0].ItemArray[3].ToString())
-                {
-                    MessageBox.Show("Your old Password is wrong");
                 }
                 else
                 {

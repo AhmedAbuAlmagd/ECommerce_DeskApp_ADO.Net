@@ -62,10 +62,14 @@ namespace E_Commerce.Forms
         {
             if ( category_id != 0)
             {
-                categoriesService.Delete(category_id);
-                MessageBox.Show("Category deleted successfully");
-                dgv_Categories_CF.DataSource = categoriesService.GettALL();
-                txt_categoryName_CF.Text = "";
+                var result = MessageBox.Show("Are you sure you want to delete this category ?", "Confirm Deletion", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == DialogResult.Yes)
+                {
+                    categoriesService.Delete(category_id);
+                    MessageBox.Show("Category deleted successfully");
+                    dgv_Categories_CF.DataSource = categoriesService.GettALL();
+                    txt_categoryName_CF.Text = "";
+                }
             }
             else
                 MessageBox.Show("Please select category");

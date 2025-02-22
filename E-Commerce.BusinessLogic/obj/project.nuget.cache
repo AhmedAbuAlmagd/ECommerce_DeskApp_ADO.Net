@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lmNRvwQRrLo=",
+  "dgSpecHash": "Cy+WSigOTIk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj",
+  "projectFilePath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.BusinessLogic\\E-Commerce.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoftLaptop\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SoftLaptop\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

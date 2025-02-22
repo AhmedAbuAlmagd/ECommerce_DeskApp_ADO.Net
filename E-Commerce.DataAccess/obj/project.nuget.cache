@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "109XVOKUGBs=",
+  "dgSpecHash": "1rss/OzV75I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SoftLaptop\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
+  "projectFilePath": "D:\\ITI\\Projects\\ADO Project\\E-Commerce Project\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoftLaptop\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SoftLaptop\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
