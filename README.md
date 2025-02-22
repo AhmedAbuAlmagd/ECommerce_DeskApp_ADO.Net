@@ -45,7 +45,7 @@ The application uses a SQL Server database with these tables :-
 - Products belong to one category.
 - Categories can have many products.
 - Users can have many favorite products.
-  🌟 The schema is included in the folder (DataBase bak) -> ECommerce_ADO.bak backup
+- 🌟 The schema is included in the folder (DataBase bak) -> ECommerce_ADO.bak backup .
 
 🌟 **Installation and Setup :**
 
